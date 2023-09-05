@@ -89,4 +89,4 @@ To calculate Personal Pronouns mentioned in the text, we use regex to find the c
 
 Average Word Length is calculated by the formula:
 
-Sum of the total number of characters in each word/Total number of words
+Sum of the total number of characters in each word/Total number of words.
